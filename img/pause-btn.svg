@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clip0_24531_3491">
+   <rect fill="white" height="24" id="svg_1" width="24"/>
+  </clipPath>
+  <filter height="200%" id="svg_2_blur" width="200%" x="-50%" y="-50%">
+   <feGaussianBlur stdDeviation="0"/>
+  </filter>
+ </defs>
+ <g class="layer">
+  <title>background</title>
+  <rect fill="none" height="22" id="canvas_background" width="22" x="-1" y="-1"/>
+ </g>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g clip-path="url(#clip0_24531_3491)" filter="url(#svg_2_blur)" id="svg_2" transform="rotate(180 11.9888 12.0653)">
+   <path d="m11.988802,0.036841c-6.613238,0 -11.969662,5.382734 -11.969662,12.028457c0,6.645722 5.356424,12.028457 11.969662,12.028457c6.613238,0 11.969662,-5.382734 11.969662,-12.028457c0,-6.645722 -5.356424,-12.028457 -11.969662,-12.028457z" fill="#A1A6B4" id="svg_3" stroke-dasharray="2,2" stroke-width="88"/>
+   <rect fill="white" height="9.622766" id="svg_4" rx="1" stroke-dasharray="2,2" stroke-width="88" width="2.393932" x="8.397903" y="7.253916"/>
+   <rect fill="white" height="9.622766" id="svg_5" rx="1" stroke-dasharray="2,2" stroke-width="88" width="2.393932" x="13.185768" y="7.253916"/>
+  </g>
+ </g>
+</svg>
